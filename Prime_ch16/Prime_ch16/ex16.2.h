@@ -51,3 +51,22 @@ constexpr std::size_t arysize(T(&array)[N])
     return N;
 }
 }
+
+template<typename T>
+void print_all(T & t)
+{
+    typename T::size_type i = 0;
+    for (i = 0; i < t.size(); i++)
+    {
+        std::cout << t[i];
+    }
+}
+
+template<typename T>
+void print_all_itr(T & t)
+{
+    for (auto i = t.begin(); i != t.end(); i++)
+    {
+        std::cout << *i;
+    }
+}

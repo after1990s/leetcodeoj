@@ -1,0 +1,24 @@
+﻿Build started 2016/11/28 15:10:58.
+     1>Project "F:\leetcodeoj\Prime_ch16\Prime_ch16\Prime_ch16.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\LLVM_bin\msbuild-bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Prime_ch16.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -m32 -fmsc-version=1800 stdafx.cpp
+     1>clang-cl.exe : warning : support for '/Yc' without a corresponding /FI flag not implemented yet; flag ignored
+     1>clang-cl.exe : warning : argument unused during compilation: '/GL'
+     1>clang-cl.exe : warning : argument unused during compilation: '/Gm-'
+     1>clang-cl.exe : warning : argument unused during compilation: '/FpRelease\Prime_ch16.pch'
+         C:\Program Files (x86)\LLVM_bin\msbuild-bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Prime_ch16.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -m32 -fmsc-version=1800 Blob.cpp Prime_ch16.cpp
+     1>clang-cl.exe : warning : support for '/Yu' without a corresponding /FI flag not implemented yet; flag ignored
+     1>clang-cl.exe : warning : argument unused during compilation: '/GL'
+     1>clang-cl.exe : warning : argument unused during compilation: '/Gm-'
+     1>clang-cl.exe : warning : argument unused during compilation: '/FpRelease\Prime_ch16.pch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\leetcodeoj\Prime_ch16\Release\Prime_ch16.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\leetcodeoj\Prime_ch16\Release\Prime_ch16.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\leetcodeoj\Prime_ch16\Release\Prime_ch16.lib" /MACHINE:X86 /SAFESEH Release\Blob.obj
+         Release\Prime_ch16.obj
+         Release\stdafx.obj
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         Prime_ch16.vcxproj -> F:\leetcodeoj\Prime_ch16\Release\Prime_ch16.exe
+     1>Done Building Project "F:\leetcodeoj\Prime_ch16\Prime_ch16\Prime_ch16.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.01

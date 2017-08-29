@@ -1,0 +1,8 @@
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\leetcodeoj\Tutorial1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
